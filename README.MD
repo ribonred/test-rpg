@@ -1,8 +1,12 @@
 ### getting started
 
-copy env file
+copy provider env file
 ```
 cp example.env .env
+```
+copy dashboard_app env file
+```
+cp dashboard_app/example.env dashboard_app/.env
 ```
 
 run in docker compose
